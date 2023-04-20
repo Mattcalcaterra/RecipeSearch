@@ -1,0 +1,3201 @@
+{
+    "graph": {
+        "Cake De Naranja": {
+            "connectedTo": [
+                "20081",
+                "2047",
+                "1001",
+                "1053",
+                "19335",
+                "1123",
+                "9216",
+                "1230",
+                "1052050",
+                "1001",
+                "20081",
+                "0",
+                "9200",
+                "1019016",
+                "9150",
+                "19335"
+            ],
+            "url": "https://www.foodista.com/recipe/XL4YYGS5/cake-de-naranja",
+            "image": "https://spoonacular.com/recipeImages/636754-312x231.jpg"
+        },
+        "Cake with lemon, rosewater and pistachios": {
+            "connectedTo": [
+                "18369",
+                "20081",
+                "2047",
+                "93740",
+                "0",
+                "4584",
+                "9156",
+                "1116",
+                "19296",
+                "1123",
+                "12151",
+                "19335",
+                "0",
+                "14412",
+                "9152",
+                "10411111",
+                "12151",
+                "0"
+            ],
+            "url": "https://www.foodista.com/recipe/F8MSDTTK/cake-with-lemon-rosewater-and-pistachios",
+            "image": "https://spoonacular.com/recipeImages/636766-312x231.jpg"
+        },
+        "Plum Cake": {
+            "connectedTo": [
+                "1001",
+                "20081",
+                "19335",
+                "12135",
+                "1123",
+                "1056",
+                "9279",
+                "19335",
+                "1123",
+                "9279"
+            ],
+            "url": "https://www.foodista.com/recipe/LXVZGLQ5/plum-cake",
+            "image": "https://spoonacular.com/recipeImages/656444-312x231.jpg"
+        },
+        "Apple Cake": {
+            "connectedTo": [
+                "12155",
+                "9003",
+                "19335",
+                "1123",
+                "4582",
+                "18372",
+                "2010",
+                "1052050",
+                "20081",
+                "2047",
+                "9003"
+            ],
+            "url": "http://www.foodista.com/recipe/QBQCV5FG/apple-cake",
+            "image": "https://spoonacular.com/recipeImages/632485-312x231.jpg"
+        },
+        "White cake with marzipan and almonds": {
+            "connectedTo": [
+                "1124",
+                "19335",
+                "18369",
+                "20027",
+                "1124",
+                "1001",
+                "20081",
+                "19335",
+                "10014534",
+                "93704",
+                "18079",
+                "10112061",
+                "93704"
+            ],
+            "url": "http://www.foodista.com/recipe/G74N7TT4/white-cake-with-marzipan-and-almonds",
+            "image": "https://spoonacular.com/recipeImages/665155-312x231.jpg"
+        },
+        "Apple Cake With Caramel Brown Sugar Glaze": {
+            "connectedTo": [
+                "18372",
+                "2010",
+                "20081",
+                "19335",
+                "1123",
+                "2047",
+                "1052050",
+                "20081",
+                "4582",
+                "9003",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/XGKCQLKP/apple-cake-with-caramel-brown-sugar-glaze",
+            "image": "https://spoonacular.com/recipeImages/632487-312x231.jpg"
+        },
+        "Yogurt Cake": {
+            "connectedTo": [
+                "0",
+                "4582",
+                "4053",
+                "1052050",
+                "1116",
+                "19335",
+                "1123",
+                "18369",
+                "2025",
+                "20081",
+                "2047",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/2J83Z5RD/yogurt-cake",
+            "image": "https://spoonacular.com/recipeImages/665540-312x231.jpg"
+        },
+        "Carrot Cake Snack Bites": {
+            "connectedTo": [
+                "0",
+                "12023",
+                "12061",
+                "12104",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/Z4DBX47V/carrot-cake-snack-bites",
+            "image": "https://spoonacular.com/recipeImages/637187-312x231.jpg"
+        },
+        "Banana Cake With Caramel Icing": {
+            "connectedTo": [
+                "20081",
+                "9040",
+                "1001",
+                "1053",
+                "19335",
+                "1123",
+                "1230",
+                "1001",
+                "19335",
+                "0",
+                "1123",
+                "18369",
+                "20081",
+                "1001",
+                "1053",
+                "10019230",
+                "19335",
+                "14412",
+                "19334",
+                "9040",
+                "1001",
+                "9040"
+            ],
+            "url": "https://www.foodista.com/recipe/G5P86NTR/banana-cake-with-caramel-icing",
+            "image": "https://spoonacular.com/recipeImages/634026-312x231.jpg"
+        },
+        "Almond Cake With Orange Marmalade": {
+            "connectedTo": [
+                "1001",
+                "20081",
+                "2050",
+                "1001",
+                "1053",
+                "20081",
+                "19335",
+                "1123",
+                "12135"
+            ],
+            "url": "http://www.foodista.com/recipe/YMNCCRN8/almond-cake-with-orange-marmalade",
+            "image": "https://spoonacular.com/recipeImages/632108-312x231.jpg"
+        },
+        "Brownie Cake gluten free, dairy free": {
+            "connectedTo": [
+                "4047",
+                "0",
+                "19165",
+                "20081",
+                "19335",
+                "1123",
+                "10014214",
+                "1052050",
+                "19335",
+                "1123",
+                "19165",
+                "20081",
+                "4073",
+                "14412"
+            ],
+            "url": "https://www.foodista.com/recipe/66QV4MNN/molten-brownie-cake-gluten-dairy-soy-free",
+            "image": "https://spoonacular.com/recipeImages/636324-312x231.jpeg"
+        },
+        "Wholemeal Cake": {
+            "connectedTo": [
+                "20080",
+                "19334",
+                "20081",
+                "12120",
+                "1124",
+                "19335",
+                "1124",
+                "20081",
+                "9079",
+                "9032",
+                "1001",
+                "9079",
+                "9032"
+            ],
+            "url": "https://www.foodista.com/recipe/JDYXYDJY/wholemeal-cake",
+            "image": "https://spoonacular.com/recipeImages/665303-312x231.jpg"
+        },
+        "Chocolate Cake in a Mug": {
+            "connectedTo": [
+                "1001",
+                "2050",
+                "1077",
+                "1123"
+            ],
+            "url": "https://maplewoodroad.com/chocolate-cake-in-a-mug/",
+            "image": "https://spoonacular.com/recipeImages/1697661-312x231.jpg"
+        },
+        "Olive Oil Cake With Brown Butter Glaze": {
+            "connectedTo": [
+                "18369",
+                "20081",
+                "1123",
+                "2047",
+                "19335",
+                "4053",
+                "9206",
+                "19336",
+                "4053",
+                "1001",
+                "1077",
+                "9152",
+                "12061",
+                "1001",
+                "19335",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/GHPJNDXJ/olive-oil-cake-with-brown-butter-glaze",
+            "image": "https://spoonacular.com/recipeImages/653644-312x231.jpg"
+        },
+        "Chocolate Cake with Coffee Marscarpone Icing": {
+            "connectedTo": [
+                "19081",
+                "1001",
+                "14412",
+                "19081",
+                "93813",
+                "4053",
+                "1001",
+                "1116",
+                "20081",
+                "19335",
+                "1123",
+                "2047",
+                "0",
+                "19081",
+                "10242040",
+                "14209",
+                "10019230",
+                "19335",
+                "14412",
+                "19081",
+                "0",
+                "10019230"
+            ],
+            "url": "http://www.foodista.com/recipe/XBRFKYRT/chocolate-cake-with-coffee-marscarpone-icing",
+            "image": "https://spoonacular.com/recipeImages/638871-312x231.jpg"
+        },
+        "Applesauce Cake": {
+            "connectedTo": [
+                "9070",
+                "12135"
+            ],
+            "url": "https://www.foodista.com/recipe/QPSPX2W7/applesauce-cake",
+            "image": "https://spoonacular.com/recipeImages/632632-312x231.jpg"
+        },
+        "Fresh Plum Cake": {
+            "connectedTo": [
+                "1002035",
+                "18369",
+                "1001",
+                "1053",
+                "20081",
+                "19335",
+                "2047",
+                "20081",
+                "1123",
+                "0",
+                "9279",
+                "0",
+                "9279",
+                "1002035",
+                "9279",
+                "19335",
+                "9191",
+                "9021",
+                "9236"
+            ],
+            "url": "http://www.foodista.com/recipe/FQXLG7XH/fresh-plum-cake",
+            "image": "https://spoonacular.com/recipeImages/643571-312x231.jpg"
+        },
+        "Clementine Cake": {
+            "connectedTo": [
+                "9433",
+                "14412",
+                "9433",
+                "9433",
+                "1001",
+                "9431",
+                "18369",
+                "12061",
+                "19335",
+                "1123",
+                "9200",
+                "1001"
+            ],
+            "url": "https://www.foodista.com/recipe/KVL7YKRH/clementine-cake",
+            "image": "https://spoonacular.com/recipeImages/639656-312x231.jpg"
+        },
+        "Raw Carrot Cake": {
+            "connectedTo": [
+                "0",
+                "11124",
+                "9299",
+                "2035",
+                "9426",
+                "9021",
+                "12108",
+                "10093740",
+                "12108",
+                "1054",
+                "0"
+            ],
+            "url": "https://www.foodista.com/recipe/Y84YSBRR/raw-carrot-cake",
+            "image": "https://spoonacular.com/recipeImages/657968-312x231.jpg"
+        },
+        "Lemon Bundt Cake": {
+            "connectedTo": [],
+            "url": "http://www.foodista.com/recipe/2VCKWPVM/lemon-bundt-cake",
+            "image": "https://spoonacular.com/recipeImages/61113-312x231.jpg"
+        },
+        "BEST Banana Cake EVER": {
+            "connectedTo": [
+                "1001",
+                "1053",
+                "1052050",
+                "1077",
+                "1123",
+                "18369",
+                "18372",
+                "9040",
+                "20081",
+                "9040",
+                "0",
+                "9040",
+                "1001",
+                "19336",
+                "0",
+                "19904"
+            ],
+            "url": "http://www.foodista.com/recipe/ZTFDMK6T/best-banana-cake-ever",
+            "image": "https://spoonacular.com/recipeImages/634880-312x231.jpg"
+        },
+        "Moist Carrot Cake": {
+            "connectedTo": [
+                "18369",
+                "18372",
+                "2010",
+                "1052050",
+                "2025",
+                "19335",
+                "1123",
+                "2047",
+                "4582",
+                "11124",
+                "20081"
+            ],
+            "url": "http://www.foodista.com/recipe/TPFMDWHQ/moist-carrot-cake",
+            "image": "https://spoonacular.com/recipeImages/652225-312x231.jpg"
+        },
+        "Carrot Spice Cake": {
+            "connectedTo": [
+                "4679",
+                "20081",
+                "18372",
+                "2010",
+                "2025",
+                "19335",
+                "2047",
+                "1123",
+                "4582",
+                "9019",
+                "9266",
+                "11124",
+                "20081",
+                "1123",
+                "1017",
+                "19230",
+                "1001",
+                "19336",
+                "1052050",
+                "19230",
+                "0"
+            ],
+            "url": "https://www.foodista.com/recipe/5K76NLQT/carrot-spice-cake",
+            "image": "https://spoonacular.com/recipeImages/637229-312x231.jpg"
+        },
+        "Autumn Apple Cake With Caramel Glaze": {
+            "connectedTo": [
+                "18372",
+                "2010",
+                "20081",
+                "19335",
+                "1123",
+                "2047",
+                "1052050",
+                "20081",
+                "4582",
+                "9003",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/G4X33MDK/autumn-apple-cake-with-caramel-glaze",
+            "image": "https://spoonacular.com/recipeImages/633086-312x231.jpg"
+        },
+        "German Lemon Cake With Cranberry Aka Cranberry Zitronenkuchen": {
+            "connectedTo": [
+                "0",
+                "9150",
+                "20081",
+                "1019016",
+                "18369",
+                "1001",
+                "1053",
+                "20081",
+                "19335",
+                "2047",
+                "20081",
+                "1123",
+                "9079",
+                "1001053",
+                "9152",
+                "20081",
+                "1001",
+                "19336",
+                "9152",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/FKZGF42F/german-lemon-cake-with-cranberry-aka-cranberry-zitronenkuchen",
+            "image": "https://spoonacular.com/recipeImages/644477-312x231.jpg"
+        },
+        "Cocoa Chiffon Cake": {
+            "connectedTo": [
+                "19165",
+                "14412",
+                "1125",
+                "1052050",
+                "19165",
+                "4582",
+                "18373",
+                "1124",
+                "1124",
+                "1125"
+            ],
+            "url": "https://www.foodista.com/recipe/D3R7Y3GV/cocoa-chiffon-cake",
+            "image": "https://spoonacular.com/recipeImages/639697-312x231.jpg"
+        },
+        "Banana Walnut Cake": {
+            "connectedTo": [
+                "1001077",
+                "19230",
+                "2053",
+                "1077"
+            ],
+            "url": "http://www.foodista.com/recipe/V72D6RQM/banana-walnut-cake",
+            "image": "https://spoonacular.com/recipeImages/634202-312x231.jpg"
+        },
+        "Triple Citrus Cake": {
+            "connectedTo": [
+                "18369",
+                "0",
+                "9156",
+                "1052050",
+                "1116",
+                "20081",
+                "19335",
+                "1123",
+                "2047",
+                "4582",
+                "19336",
+                "9206",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/8TVL8K4Z/triple-citrus-cake",
+            "image": "https://spoonacular.com/recipeImages/663837-312x231.jpg"
+        },
+        "Caramel Apple Cake": {
+            "connectedTo": [
+                "4679",
+                "19335",
+                "1123",
+                "4582",
+                "12155",
+                "9003",
+                "18369",
+                "18372",
+                "9003",
+                "20081",
+                "0",
+                "1052050",
+                "19334",
+                "1001",
+                "2047",
+                "1077",
+                "19336",
+                "0",
+                "0"
+            ],
+            "url": "https://www.foodista.com/recipe/2H4TBF8P/caramel-apple-cake",
+            "image": "https://spoonacular.com/recipeImages/636974-312x231.jpg"
+        },
+        "THE Chocolate Cake": {
+            "connectedTo": [
+                "4679",
+                "0",
+                "10014214",
+                "18369",
+                "18372",
+                "19165",
+                "20081",
+                "19335",
+                "2047",
+                "20081",
+                "4669",
+                "1052050",
+                "20081",
+                "14412",
+                "1123",
+                "1077"
+            ],
+            "url": "https://www.foodista.com/recipe/ZG8MYH6L/the-chocolate-cake-drool",
+            "image": "https://spoonacular.com/recipeImages/663261-312x231.jpg"
+        },
+        "Vanilla Pound Cake": {
+            "connectedTo": [
+                "18369",
+                "2025",
+                "20081",
+                "2047"
+            ],
+            "url": "http://www.afrolems.com/2013/08/06/pound-cake-nigerian-cake/",
+            "image": "https://spoonacular.com/recipeImages/716367-312x231.jpg"
+        },
+        "Bing's Banana Cake": {
+            "connectedTo": [
+                "1123",
+                "9040",
+                "19335",
+                "9040",
+                "9040",
+                "19335",
+                "1123",
+                "1054",
+                "20081",
+                "9040",
+                "1123",
+                "18369",
+                "18372",
+                "4669",
+                "9040",
+                "1123",
+                "10112155",
+                "4669",
+                "9040",
+                "20081",
+                "12135",
+                "1123",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/8RBJ4FVM/bing-s-banana-cake",
+            "image": "https://spoonacular.com/recipeImages/634986-312x231.jpg"
+        },
+        "Almond Coffee Cake": {
+            "connectedTo": [],
+            "url": "http://www.foodista.com/recipe/BH64QNLJ/almond-coffee-cake",
+            "image": "https://spoonacular.com/recipeImages/63227-312x231.jpg"
+        },
+        "Grownup carrot cake": {
+            "connectedTo": [
+                "11124",
+                "14412",
+                "18372",
+                "2010",
+                "11124",
+                "1001",
+                "1002011",
+                "11216",
+                "20081",
+                "19335",
+                "4582",
+                "4053",
+                "10014037",
+                "1052050",
+                "1123",
+                "9266",
+                "11124",
+                "12104",
+                "19336",
+                "1017",
+                "19230",
+                "1052050",
+                "1001",
+                "1053",
+                "9150"
+            ],
+            "url": "http://www.foodista.com/recipe/5LN4X6FD/grownup-carrot-cake",
+            "image": "https://spoonacular.com/recipeImages/645984-312x231.jpg"
+        },
+        "Autumn Pumpkin Cake": {
+            "connectedTo": [
+                "11422"
+            ],
+            "url": "https://www.foodista.com/recipe/5K5VD54Q/pumpkin-cake-the-ideal-dessert-for-a-sunny-autumn-day",
+            "image": "https://spoonacular.com/recipeImages/633101-312x231.jpg"
+        },
+        "Choclate Pound Cake": {
+            "connectedTo": [
+                "20081",
+                "18369",
+                "19165",
+                "20081",
+                "2047",
+                "1230",
+                "1052050",
+                "1001",
+                "14209",
+                "1053",
+                "20081",
+                "19335",
+                "1123"
+            ],
+            "url": "https://www.foodista.com/recipe/BZR72Y42/choclate-pound-cake",
+            "image": "https://spoonacular.com/recipeImages/638778-312x231.jpg"
+        },
+        "Pumpkin Coffee Cake": {
+            "connectedTo": [
+                "11424",
+                "2010",
+                "1001",
+                "1002011",
+                "11216",
+                "2025",
+                "19335",
+                "1123",
+                "18369",
+                "18372",
+                "1052050",
+                "1001",
+                "20081",
+                "19335",
+                "1123",
+                "1056",
+                "1001",
+                "20081",
+                "19334",
+                "2010",
+                "11422",
+                "1001",
+                "12142",
+                "0",
+                "14209"
+            ],
+            "url": "http://www.foodista.com/recipe/BRKM2YFY/pumpkin-coffee-cake",
+            "image": "https://spoonacular.com/recipeImages/657274-312x231.jpg"
+        },
+        "Pandan Chiffon Cake": {
+            "connectedTo": [
+                "0",
+                "1019016",
+                "14412",
+                "10018364",
+                "12118",
+                "10020129",
+                "1125",
+                "42289",
+                "1019016",
+                "19335",
+                "2047",
+                "18373",
+                "1124",
+                "19335",
+                "1123"
+            ],
+            "url": "http://www.foodista.com/recipe/N5DSGCT8/pandan-chiffon-cake",
+            "image": "https://spoonacular.com/recipeImages/654512-312x231.jpg"
+        },
+        "Autumn Harvest Cake": {
+            "connectedTo": [
+                "1001",
+                "1001",
+                "1053",
+                "1123",
+                "11507",
+                "2010",
+                "1052050",
+                "1002011",
+                "2025",
+                "9003",
+                "1077",
+                "9252",
+                "18369",
+                "18372",
+                "20081",
+                "2047",
+                "11507",
+                "20081",
+                "12135",
+                "0",
+                "19228",
+                "2010"
+            ],
+            "url": "https://www.foodista.com/recipe/M5KWBJPT/autumn-harvest-cake",
+            "image": "https://spoonacular.com/recipeImages/633095-312x231.jpg"
+        },
+        "Almond Ricotta Cake": {
+            "connectedTo": [
+                "19335",
+                "1123",
+                "4582",
+                "1002050",
+                "9152",
+                "1036",
+                "1052050",
+                "11114037",
+                "93740",
+                "18369",
+                "20081",
+                "2047",
+                "1036",
+                "12061",
+                "1036",
+                "1052050",
+                "19335",
+                "1077",
+                "12135",
+                "1123",
+                "10112061",
+                "12061",
+                "1036",
+                "0",
+                "19719",
+                "12061",
+                "0",
+                "0",
+                "19297"
+            ],
+            "url": "http://www.foodista.com/recipe/JRG6RYFS/almond-ricotta-cake",
+            "image": "https://spoonacular.com/recipeImages/632176-312x231.jpg"
+        },
+        "Apple Cinnamon Cake": {
+            "connectedTo": [
+                "1001053",
+                "1052050",
+                "1001",
+                "1053",
+                "20081",
+                "19335",
+                "1123",
+                "1069003",
+                "9003"
+            ],
+            "url": "http://www.foodista.com/recipe/XZ45BJN8/apple-cinnamon-cake",
+            "image": "https://spoonacular.com/recipeImages/632501-312x231.jpg"
+        },
+        "German Rhubarb Cake with Meringue": {
+            "connectedTo": [
+                "9307",
+                "0",
+                "9307",
+                "19335",
+                "14412",
+                "2050",
+                "1001",
+                "19335",
+                "1123",
+                "93740",
+                "18369",
+                "20081",
+                "2047",
+                "1123",
+                "9307",
+                "0",
+                "1124",
+                "19335",
+                "10112061",
+                "9307",
+                "0"
+            ],
+            "url": "https://www.foodista.com/recipe/68PX6QXK/german-rhubarb-cake-with-meringue",
+            "image": "https://spoonacular.com/recipeImages/644488-312x231.jpg"
+        },
+        "Classic Carrot Cake With Cream Cheese Frosting": {
+            "connectedTo": [],
+            "url": "http://www.foodista.com/recipe/8777NMTV/classic-carrot-cake-with-cream-cheese-frosting",
+            "image": "https://spoonacular.com/recipeImages/639580-312x231.jpg"
+        },
+        "Chocolate Apple Cake": {
+            "connectedTo": [
+                "19081",
+                "1001",
+                "93622",
+                "93818",
+                "19335",
+                "1123",
+                "10093740",
+                "20081",
+                "19081",
+                "1001",
+                "2010",
+                "9003",
+                "9003"
+            ],
+            "url": "https://www.foodista.com/recipe/44QVRYVW/chocolate-apple-cake",
+            "image": "https://spoonacular.com/recipeImages/638820-312x231.jpg"
+        },
+        "Blueberry Pound Cake": {
+            "connectedTo": [
+                "20081",
+                "1001",
+                "1053",
+                "19335",
+                "2047",
+                "1123",
+                "2050",
+                "1001053",
+                "9050",
+                "20081",
+                "1053",
+                "18133"
+            ],
+            "url": "http://www.foodista.com/recipe/D8KH8SJ8/blueberry-pound-cake",
+            "image": "https://spoonacular.com/recipeImages/635521-312x231.jpg"
+        },
+        "Chocolate Spelt Cake": {
+            "connectedTo": [
+                "14214",
+                "18372",
+                "9085",
+                "1052050",
+                "14209",
+                "20140",
+                "2047",
+                "19334",
+                "10719335",
+                "1001",
+                "14209",
+                "1123",
+                "20140",
+                "1001"
+            ],
+            "url": "https://www.foodista.com/recipe/B6XNBWP6/chocolate-spelt-cake",
+            "image": "https://spoonacular.com/recipeImages/639209-312x231.jpg"
+        },
+        "Christmas Fruit Cake": {
+            "connectedTo": [
+                "1001",
+                "19335",
+                "1123",
+                "18369",
+                "20081",
+                "18369",
+                "1022035",
+                "1009094",
+                "9291",
+                "12155",
+                "11114037",
+                "9206",
+                "9216",
+                "9200",
+                "2050",
+                "1009094",
+                "9291",
+                "10018364",
+                "11114037",
+                "2050",
+                "9206",
+                "9216",
+                "1001",
+                "19335",
+                "11114037",
+                "1123",
+                "1009094",
+                "1022035",
+                "1001",
+                "20081",
+                "1009094",
+                "12155",
+                "9431",
+                "11114037",
+                "10018364",
+                "11114037"
+            ],
+            "url": "https://www.foodista.com/recipe/GDBVFHZH/christmas-fruit-cake",
+            "image": "https://spoonacular.com/recipeImages/639361-312x231.jpg"
+        },
+        "Mandarin Orange Cake": {
+            "connectedTo": [
+                "1019016",
+                "1077",
+                "4582",
+                "18369",
+                "20081",
+                "0",
+                "19336"
+            ],
+            "url": "https://www.foodista.com/recipe/DWY8T3TB/mandarin-orange-cake",
+            "image": "https://spoonacular.com/recipeImages/650723-312x231.jpg"
+        },
+        "Orange Semolina Cake": {
+            "connectedTo": [
+                "18369",
+                "10319335",
+                "19335",
+                "1123",
+                "2047",
+                "9216",
+                "1230",
+                "20066",
+                "20081"
+            ],
+            "url": "http://www.foodista.com/recipe/SJ7CW63X/orange-semolina-cake",
+            "image": "https://spoonacular.com/recipeImages/653955-312x231.jpg"
+        },
+        "Tropical Carrot Cake": {
+            "connectedTo": [
+                "18372",
+                "2010",
+                "20081",
+                "19335",
+                "2047",
+                "93833",
+                "9019",
+                "1052050",
+                "9266",
+                "11124",
+                "12104"
+            ],
+            "url": "http://www.foodista.com/recipe/7MQW6BFC/tropical-carrot-cake",
+            "image": "https://spoonacular.com/recipeImages/663847-312x231.jpg"
+        },
+        "Blue Sugar Plum Cake": {
+            "connectedTo": [
+                "1001",
+                "1053",
+                "19335",
+                "1052050",
+                "1123",
+                "18369",
+                "20081",
+                "2047",
+                "20081",
+                "9279",
+                "0",
+                "9279",
+                "19908",
+                "2025",
+                "19336"
+            ],
+            "url": "https://www.foodista.com/recipe/KHS5JKDY/blue-sugar-plum-cake",
+            "image": "https://spoonacular.com/recipeImages/635391-312x231.jpg"
+        },
+        "Poppy Seed Crazy Cake": {
+            "connectedTo": [
+                "18372",
+                "18369",
+                "2033",
+                "19335",
+                "2047",
+                "2050",
+                "93829",
+                "2053",
+                "4582",
+                "1077"
+            ],
+            "url": "http://www.foodista.com/recipe/T57GPW3G/poppy-seed-crazy-cake",
+            "image": "https://spoonacular.com/recipeImages/656684-312x231.jpg"
+        },
+        "Lemon Strawberry Cake": {
+            "connectedTo": [
+                "9316",
+                "98887",
+                "1001",
+                "9150",
+                "1123",
+                "2050",
+                "1125",
+                "18369",
+                "93747",
+                "12118",
+                "9152",
+                "1124",
+                "9316",
+                "2047"
+            ],
+            "url": "https://www.foodista.com/recipe/57LGJ4VD/lemon-strawberry-cake",
+            "image": "https://spoonacular.com/recipeImages/1096193-312x231.jpg"
+        },
+        "Apple and Walnut Cake": {
+            "connectedTo": [
+                "18372",
+                "2010",
+                "20081",
+                "19335",
+                "1052050",
+                "1123",
+                "4582",
+                "9003",
+                "12135"
+            ],
+            "url": "https://www.foodista.com/recipe/VK3RVY4C/apple-and-walnut-cake",
+            "image": "https://spoonacular.com/recipeImages/632471-312x231.jpg"
+        },
+        "Japanese Chiffon Cake": {
+            "connectedTo": [
+                "4582",
+                "1001",
+                "14412",
+                "1017",
+                "1001",
+                "1053",
+                "14412",
+                "20081",
+                "20027",
+                "1041009",
+                "1125",
+                "19335",
+                "1123",
+                "1124",
+                "1041009",
+                "1041009",
+                "10018364",
+                "14412"
+            ],
+            "url": "http://www.foodista.com/recipe/N5VBYF2W/japanese-chiffon-cake",
+            "image": "https://spoonacular.com/recipeImages/648461-312x231.jpg"
+        },
+        "Buttermilk Pound Cake": {
+            "connectedTo": [
+                "1001",
+                "19335",
+                "18372",
+                "20081",
+                "2047",
+                "1001",
+                "19335",
+                "2050",
+                "9156",
+                "2025",
+                "1123",
+                "20081",
+                "1230",
+                "20081"
+            ],
+            "url": "https://www.foodista.com/recipe/C843NP2M/buttermilk-pound-cake",
+            "image": "https://spoonacular.com/recipeImages/636560-312x231.jpg"
+        },
+        "Mini Mixed Fruit Cake": {
+            "connectedTo": [
+                "9079",
+                "9431",
+                "11114037",
+                "1001116",
+                "2050",
+                "1001",
+                "19335",
+                "1123",
+                "11114037",
+                "20129",
+                "1009094",
+                "20081",
+                "9431"
+            ],
+            "url": "https://www.foodista.com/recipe/YZ43RDL5/mini-mixed-fruit-cake",
+            "image": "https://spoonacular.com/recipeImages/651966-312x231.jpg"
+        },
+        "Buttermilk Coffee Cake": {
+            "connectedTo": [
+                "20081",
+                "19335",
+                "2047",
+                "18369",
+                "18372",
+                "1230",
+                "2010",
+                "1001",
+                "2025",
+                "1123",
+                "20081",
+                "12135",
+                "1123"
+            ],
+            "url": "http://www.foodista.com/recipe/7Y3YXRRF/buttermilk-coffee-cake",
+            "image": "https://spoonacular.com/recipeImages/636545-312x231.jpg"
+        },
+        "Mini Tofu Chiffon Cake": {
+            "connectedTo": [
+                "1053",
+                "12023",
+                "1124",
+                "19335",
+                "1124",
+                "1125",
+                "18139"
+            ],
+            "url": "https://www.foodista.com/recipe/R8PKWLWY/mini-tofu-chiffon-cake",
+            "image": "https://spoonacular.com/recipeImages/651984-312x231.jpg"
+        },
+        "Easter Nest Sweet Cake With Sour Cream-Royal Icing and Pistachios": {
+            "connectedTo": [
+                "1001",
+                "19335",
+                "1123",
+                "1056",
+                "20081",
+                "1124",
+                "10019230",
+                "10711111",
+                "9152",
+                "19335",
+                "12151",
+                "0",
+                "10019230"
+            ],
+            "url": "http://www.foodista.com/recipe/HN2MC66R/easter-nest-sweet-cake-with-sour-cream-royal-icing-and-pistachios",
+            "image": "https://spoonacular.com/recipeImages/641799-312x231.jpg"
+        },
+        "Caramel Almond Mug Cake": {
+            "connectedTo": [
+                "93747",
+                "2010",
+                "2047",
+                "19074",
+                "1123",
+                "18369",
+                "12061",
+                "10112061",
+                "19074"
+            ],
+            "url": "http://www.foodista.com/recipe/KDKD5R55/caramel-almond-mug-cake",
+            "image": "https://spoonacular.com/recipeImages/636971-312x231.jpg"
+        },
+        "3 Minute Chocolate Cake": {
+            "connectedTo": [],
+            "url": "http://www.foodista.com/recipe/YXKHH6MG/3-minute-chocolate-cake",
+            "image": "https://spoonacular.com/recipeImages/631865-312x231.jpg"
+        },
+        "Hummingbird Carrot Cake": {
+            "connectedTo": [
+                "11124",
+                "18372",
+                "2035",
+                "20081",
+                "2047",
+                "4053",
+                "1052050",
+                "1123",
+                "9266",
+                "9040",
+                "11124",
+                "12104",
+                "19228",
+                "1017",
+                "1052050",
+                "1001",
+                "1053",
+                "19336",
+                "11124",
+                "11583",
+                "11124",
+                "10719335",
+                "14412",
+                "11124",
+                "11124",
+                "11124",
+                "11124",
+                "10018364",
+                "11124",
+                "19228",
+                "19230",
+                "19230",
+                "19228",
+                "11124",
+                "12142"
+            ],
+            "url": "https://maplewoodroad.com/hummingbird-carrot-cake/",
+            "image": "https://spoonacular.com/recipeImages/1697589-312x231.jpg"
+        },
+        "Upside Down Orange Cake": {
+            "connectedTo": [
+                "0",
+                "9200",
+                "19335",
+                "0",
+                "14412",
+                "0",
+                "0",
+                "19296",
+                "0",
+                "14412",
+                "18369",
+                "20081",
+                "0",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/55XDDH5Y/upside-down-orange-cake",
+            "image": "https://spoonacular.com/recipeImages/664246-312x231.jpg"
+        },
+        "Neah's Fresh Apple Cake": {
+            "connectedTo": [
+                "18372",
+                "2010",
+                "20081",
+                "19335",
+                "2047",
+                "9003",
+                "1052050",
+                "1123",
+                "12135",
+                "4582",
+                "19336",
+                "1052050",
+                "0",
+                "1077",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/8J2YFLB2/neahs-fresh-apple-cake",
+            "image": "https://spoonacular.com/recipeImages/652985-312x231.jpg"
+        },
+        "Scrumptious Carrot Cake": {
+            "connectedTo": [
+                "4679",
+                "18139",
+                "1052050",
+                "2047",
+                "4582",
+                "18372",
+                "2006",
+                "2010",
+                "1002011",
+                "11216",
+                "2025",
+                "20081",
+                "1123",
+                "11124",
+                "9299",
+                "12155",
+                "20081",
+                "9431",
+                "12135",
+                "18139"
+            ],
+            "url": "http://www.foodista.com/recipe/HR22TRWV/scrumptious-carrot-cake",
+            "image": "https://spoonacular.com/recipeImages/659605-312x231.jpg"
+        },
+        "Benedictine Yogurt Cake": {
+            "connectedTo": [
+                "19335",
+                "1123",
+                "2050",
+                "18369",
+                "1116",
+                "20081",
+                "4582"
+            ],
+            "url": "http://www.foodista.com/recipe/FW7HKZQW/benedictine-yogurt-cake",
+            "image": "https://spoonacular.com/recipeImages/634834-312x231.jpg"
+        },
+        "Mango-Refrigerator Cake": {
+            "connectedTo": [
+                "9176",
+                "18617",
+                "1054",
+                "18621",
+                "1052050",
+                "0",
+                "93628",
+                "1053",
+                "9176",
+                "10018364"
+            ],
+            "url": "http://www.foodista.com/recipe/28RQP3MC/mango-refrigerator-cake",
+            "image": "https://spoonacular.com/recipeImages/650852-312x231.jpg"
+        },
+        "Cherry Upside-Down Cake (Extremely Easy to Make!)": {
+            "connectedTo": [
+                "9070",
+                "1052050",
+                "1001",
+                "19335",
+                "18369",
+                "20081",
+                "1123",
+                "1077"
+            ],
+            "url": "http://www.foodista.com/recipe/YXFZ3Z84/cherry-upside-down-cake-extremely-easy-to-make",
+            "image": "https://spoonacular.com/recipeImages/637790-312x231.jpg"
+        },
+        "Vegan Pumpkin Bundt Cake": {
+            "connectedTo": [
+                "20081",
+                "4582",
+                "9299",
+                "12142",
+                "0",
+                "14412",
+                "10012142",
+                "18369",
+                "18372",
+                "11422",
+                "9299",
+                "16223",
+                "1052050",
+                "2053",
+                "2035",
+                "20081",
+                "19335",
+                "0",
+                "9087",
+                "2047",
+                "4582",
+                "19336"
+            ],
+            "url": "http://www.foodista.com/recipe/YR8GYJ2K/vegan-pumpkin-bundt-cake",
+            "image": "https://spoonacular.com/recipeImages/664477-312x231.jpg"
+        },
+        "Grandma B's Rhubarb Cake": {
+            "connectedTo": [
+                "2010",
+                "12104",
+                "12155",
+                "19335"
+            ],
+            "url": "http://www.foodista.com/recipe/RG6R6K6K/grandma-bs-rhubarb-cake",
+            "image": "https://spoonacular.com/recipeImages/645145-312x231.jpg"
+        },
+        "Vip Red Velvet Rope Cake": {
+            "connectedTo": [],
+            "url": "http://www.foodista.com/recipe/JN3HP5F7/vip-red-velvet-rope-cake",
+            "image": "https://spoonacular.com/recipeImages/66909-312x231.jpg"
+        },
+        "Caramel Peanut Fudge Cake": {
+            "connectedTo": [
+                "1125",
+                "19335",
+                "1124",
+                "1125",
+                "12061",
+                "1001",
+                "19165",
+                "1053",
+                "20081",
+                "19074",
+                "1053",
+                "19335",
+                "14412",
+                "19364",
+                "1053",
+                "16091",
+                "19081",
+                "1053",
+                "1053",
+                "0",
+                "14412",
+                "11114037",
+                "19074",
+                "0",
+                "1053"
+            ],
+            "url": "http://www.foodista.com/recipe/DFQVM7MF/caramel-peanut-cake",
+            "image": "https://spoonacular.com/recipeImages/637016-312x231.jpg"
+        },
+        "Fall Classic: Carrot Cake": {
+            "connectedTo": [
+                "4582",
+                "18369",
+                "18372",
+                "2010",
+                "20081",
+                "1123",
+                "2047",
+                "20081",
+                "1123",
+                "11124",
+                "1017",
+                "1001",
+                "1053",
+                "10019230",
+                "19336",
+                "1052050",
+                "10019230",
+                "1077",
+                "0",
+                "10019230",
+                "0",
+                "10019230"
+            ],
+            "url": "http://www.foodista.com/recipe/RRV8VGF2/how-to-bake-goodness-into-classic-fall-favourites",
+            "image": "https://spoonacular.com/recipeImages/642551-312x231.jpg"
+        },
+        "Juicy pear and apple cake": {
+            "connectedTo": [
+                "10019908",
+                "18369",
+                "10319335",
+                "9152",
+                "9156",
+                "1001",
+                "9150",
+                "9003",
+                "20081",
+                "1123",
+                "1077",
+                "9252",
+                "2047",
+                "0",
+                "9003",
+                "0",
+                "9252",
+                "19336",
+                "2010",
+                "19296"
+            ],
+            "url": "https://www.foodista.com/recipe/B26S5KH4/juicy-pear-and-apple-cake",
+            "image": "https://spoonacular.com/recipeImages/1095799-312x231.jpg"
+        },
+        "Chocolate Blackberry Cake": {
+            "connectedTo": [
+                "98887",
+                "1001",
+                "1053",
+                "1123",
+                "18369",
+                "93747",
+                "19165",
+                "2047",
+                "9042",
+                "12118",
+                "1001"
+            ],
+            "url": "https://www.foodista.com/recipe/SXRJV6HH/chocolate-blackberry-pudding",
+            "image": "https://spoonacular.com/recipeImages/1096196-312x231.jpg"
+        },
+        "Toasted Snowberry Nut Cake": {
+            "connectedTo": [
+                "20077",
+                "10112061",
+                "1009079",
+                "0",
+                "1052050",
+                "0",
+                "0"
+            ],
+            "url": "https://www.foodista.com/recipe/XKWCR47W/toasted-snowberry-nut-cake",
+            "image": "https://spoonacular.com/recipeImages/663469-312x231.jpg"
+        },
+        "French Silk Chocolate Cake": {
+            "connectedTo": [
+                "18369",
+                "19165",
+                "1124",
+                "1052050",
+                "1001",
+                "1053",
+                "20081",
+                "19335",
+                "0",
+                "2047",
+                "1123",
+                "1125",
+                "1052050",
+                "20081",
+                "1123",
+                "1001",
+                "1077",
+                "0",
+                "0",
+                "19230",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/5RHV5GCB/french-silk-chocolate-cake",
+            "image": "https://spoonacular.com/recipeImages/643394-312x231.jpg"
+        },
+        "Pear and Walnut Coffee Cake": {
+            "connectedTo": [
+                "19334",
+                "9152",
+                "9156",
+                "20078",
+                "1001",
+                "2035",
+                "20081",
+                "9252",
+                "19335",
+                "12135",
+                "18369",
+                "18372",
+                "1056",
+                "1052050",
+                "20081",
+                "1123",
+                "2047",
+                "9431",
+                "9252"
+            ],
+            "url": "http://www.foodista.com/recipe/N3KQXPJY/pear-and-walnut-coffee-cake",
+            "image": "https://spoonacular.com/recipeImages/655406-312x231.jpg"
+        },
+        "Kitchen Cabinet Coffee Cake": {
+            "connectedTo": [
+                "19334",
+                "2010",
+                "12155",
+                "1001",
+                "20081",
+                "18369",
+                "1001",
+                "20081",
+                "19335",
+                "2047",
+                "1123",
+                "20081",
+                "1077",
+                "11119297"
+            ],
+            "url": "http://www.foodista.com/recipe/XF8JFZXN/kitchen-cabinet-coffee-cake",
+            "image": "https://spoonacular.com/recipeImages/648939-312x231.jpg"
+        },
+        "Strawberries and Cream Cake": {
+            "connectedTo": [
+                "4679",
+                "1001",
+                "1001",
+                "20081",
+                "19335",
+                "1052050",
+                "1123",
+                "1077",
+                "18369",
+                "20081",
+                "2047"
+            ],
+            "url": "http://www.foodista.com/recipe/TLVW8NWN/strawberries-and-cream-cake",
+            "image": "https://spoonacular.com/recipeImages/661721-312x231.jpg"
+        },
+        "Orange Chocolate Stout Cake": {
+            "connectedTo": [
+                "18369",
+                "4679",
+                "19165",
+                "9206",
+                "18372",
+                "9216",
+                "1052050",
+                "1001",
+                "20081",
+                "19335",
+                "14003",
+                "1123",
+                "2047",
+                "20081",
+                "19336",
+                "19081",
+                "19230",
+                "1052050",
+                "1001",
+                "1077",
+                "19230",
+                "0",
+                "19230",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/2KRMWTTC/orange-chocolate-stout-cake",
+            "image": "https://spoonacular.com/recipeImages/653839-312x231.jpg"
+        },
+        "Mediterranean semolina cake": {
+            "connectedTo": [
+                "19335",
+                "1123",
+                "1116",
+                "4053",
+                "0",
+                "0",
+                "9206",
+                "9078",
+                "12061",
+                "9299",
+                "19296"
+            ],
+            "url": "https://www.foodista.com/recipe/DYTGRRYD/mediterranean-semolina-cake",
+            "image": "https://spoonacular.com/recipeImages/651434-312x231.jpg"
+        },
+        "Warm Mixed Berry Crumb Cake": {
+            "connectedTo": [
+                "9316",
+                "9152",
+                "20027",
+                "1009054",
+                "19335",
+                "9431",
+                "1001",
+                "18369",
+                "1001",
+                "20081",
+                "19335",
+                "2047",
+                "2050",
+                "1123",
+                "1230",
+                "1116",
+                "0",
+                "9431",
+                "19095",
+                "9431"
+            ],
+            "url": "http://www.foodista.com/recipe/RCB8SXTV/warm-mixed-berry-crumb-cake",
+            "image": "https://spoonacular.com/recipeImages/664964-312x231.jpg"
+        },
+        "Glazed Lemon Blueberry Cake": {
+            "connectedTo": [
+                "9057",
+                "35043",
+                "9302",
+                "1009054",
+                "1001",
+                "1053",
+                "19335",
+                "18372",
+                "20081",
+                "1123",
+                "2047",
+                "9050",
+                "1230",
+                "9156",
+                "1001",
+                "20081",
+                "1019016",
+                "9152",
+                "9156",
+                "0",
+                "19335",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/Q6C4B4VT/glazed-lemon-blueberry-cake",
+            "image": "https://spoonacular.com/recipeImages/644751-312x231.jpg"
+        },
+        "Cyndee's Neiman Marcus Cake": {
+            "connectedTo": [
+                "9156",
+                "1056",
+                "1052050",
+                "1001",
+                "1053",
+                "19335",
+                "1123",
+                "18372",
+                "20027",
+                "1001",
+                "20081",
+                "2047",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/2FJRDK5N/cyndee-s-neiman-marcus-cake",
+            "image": "https://spoonacular.com/recipeImages/641168-312x231.jpg"
+        },
+        "Traditional Battenberg Cake": {
+            "connectedTo": [
+                "1001",
+                "1053",
+                "19335",
+                "0",
+                "1123",
+                "10711111",
+                "19719",
+                "19336",
+                "93704",
+                "0",
+                "10018364",
+                "19297",
+                "19719",
+                "93704",
+                "19297",
+                "93704",
+                "0",
+                "19297"
+            ],
+            "url": "http://www.foodista.com/recipe/7WNSGRW2/traditional-battenberg-cake",
+            "image": "https://spoonacular.com/recipeImages/663755-312x231.jpg"
+        },
+        "Autumn Pumpkin Chiffon Cake": {
+            "connectedTo": [
+                "1002035",
+                "10719335",
+                "18369",
+                "11424",
+                "1124",
+                "1125",
+                "11422",
+                "20081",
+                "2047",
+                "1124",
+                "11422",
+                "19336"
+            ],
+            "url": "http://www.foodista.com/recipe/3RXRPX24/autumn-pumpkin-chiffon-cake",
+            "image": "https://spoonacular.com/recipeImages/633102-312x231.jpg"
+        },
+        "Cinnamon Eggless Coffee Cake": {
+            "connectedTo": [
+                "1012010",
+                "18369",
+                "14209",
+                "20081",
+                "2047",
+                "19336",
+                "4582",
+                "1012050",
+                "2053",
+                "14209",
+                "19335",
+                "4582",
+                "20081",
+                "19335",
+                "2010",
+                "14355",
+                "14209",
+                "14355"
+            ],
+            "url": "https://www.foodista.com/recipe/CJJNKPT5/cinnamon-eggless-coffee-cake",
+            "image": "https://spoonacular.com/recipeImages/639456-312x231.jpg"
+        },
+        "Easy Cream Cheese Pound Cake": {
+            "connectedTo": [
+                "1017",
+                "1001",
+                "1123",
+                "20081",
+                "1017",
+                "1001",
+                "19335",
+                "1123",
+                "1052050",
+                "1001",
+                "20081",
+                "2047",
+                "14412",
+                "0",
+                "1077"
+            ],
+            "url": "https://www.foodista.com/recipe/FX7WWCQ7/easy-cream-cheese-pound-cake",
+            "image": "https://spoonacular.com/recipeImages/641942-312x231.jpg"
+        },
+        "Gluten-Free Tres Leches Cake": {
+            "connectedTo": [
+                "18373",
+                "2050",
+                "18369",
+                "20648",
+                "20317",
+                "9216",
+                "93626",
+                "1124",
+                "1125",
+                "2010",
+                "1001",
+                "19335",
+                "1077",
+                "1001053",
+                "1052050",
+                "19335",
+                "9316",
+                "2064",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/HWN4KLBF/gluten-free-tres-leches-cake",
+            "image": "https://spoonacular.com/recipeImages/644907-312x231.jpg"
+        },
+        "Fresh Strawberry Yogurt Cake": {
+            "connectedTo": [
+                "18372",
+                "20081",
+                "2047",
+                "9156",
+                "9316",
+                "9152",
+                "1001",
+                "1116",
+                "1053",
+                "20081",
+                "19335",
+                "1123",
+                "19336",
+                "9152"
+            ],
+            "url": "http://www.foodista.com/recipe/46G6555H/fresh-strawberry-yogurt-cake",
+            "image": "https://spoonacular.com/recipeImages/643615-312x231.jpg"
+        },
+        "Pear-ginger upside-down cake": {
+            "connectedTo": [
+                "4582",
+                "19334",
+                "2010",
+                "1001",
+                "19334",
+                "1001",
+                "1053",
+                "9252",
+                "19335",
+                "11216",
+                "1123",
+                "18369",
+                "18372",
+                "19911",
+                "20081",
+                "19296",
+                "2047",
+                "1230",
+                "20081",
+                "9252",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/T7T3XW2K/pear-ginger-upside-down-cake",
+            "image": "https://spoonacular.com/recipeImages/655455-312x231.jpg"
+        },
+        "Rosemary & Lemon Infused Cake": {
+            "connectedTo": [
+                "2036",
+                "19335",
+                "14412",
+                "2036",
+                "0",
+                "18369",
+                "90480",
+                "1001",
+                "20081",
+                "19335",
+                "2047",
+                "4582",
+                "1123",
+                "9156",
+                "2036",
+                "1052050",
+                "1077",
+                "19336",
+                "90480",
+                "2036",
+                "1052050",
+                "0",
+                "10011416"
+            ],
+            "url": "https://www.foodista.com/recipe/NCHHDSF3/rosemary-lemon-infused-cake",
+            "image": "https://spoonacular.com/recipeImages/1095934-312x231.jpg"
+        },
+        "Chocolate Nutella Walnut Cake": {
+            "connectedTo": [
+                "19335",
+                "1123",
+                "19081",
+                "19125",
+                "1001",
+                "19081",
+                "1123",
+                "1001",
+                "20081"
+            ],
+            "url": "https://www.foodista.com/recipe/6TRSHLD5/chocolate-nutella-walnut-cake",
+            "image": "https://spoonacular.com/recipeImages/639114-312x231.jpg"
+        },
+        "Mangolicious Upside Down Cake": {
+            "connectedTo": [
+                "18369",
+                "19334",
+                "1009176",
+                "2010",
+                "1001",
+                "9176",
+                "0",
+                "1053",
+                "20081",
+                "19335",
+                "2047",
+                "1052050",
+                "1123",
+                "9176",
+                "20081"
+            ],
+            "url": "http://www.foodista.com/recipe/8H3JJ2WH/mangolicious-upside-cake",
+            "image": "https://spoonacular.com/recipeImages/650858-312x231.jpg"
+        },
+        "Lemon & Sour Cream Pound Cake": {
+            "connectedTo": [
+                "1001",
+                "20081",
+                "18369",
+                "18372",
+                "2047",
+                "1001",
+                "19335",
+                "1123",
+                "9156",
+                "1056",
+                "1052050",
+                "20081",
+                "0"
+            ],
+            "url": "https://www.foodista.com/recipe/XJSKPZCS/lemon-sour-cream-pound-cake",
+            "image": "https://spoonacular.com/recipeImages/649483-312x231.jpg"
+        },
+        "Glazed Banana Bread Bundt Cake": {
+            "connectedTo": [
+                "0",
+                "20081",
+                "18372",
+                "20078",
+                "0",
+                "1001",
+                "2047",
+                "1123",
+                "9019",
+                "1052050",
+                "9040",
+                "20081",
+                "0",
+                "9150",
+                "19335",
+                "1077",
+                "9156",
+                "0"
+            ],
+            "url": "http://www.foodista.com/recipe/R37L8T7Y/glazed-banana-bread-bundt-cake",
+            "image": "https://spoonacular.com/recipeImages/644733-312x231.jpg"
+        },
+        "Chocolate Asparagus Bundt Cake": {
+            "connectedTo": [
+                "19165",
+                "18372",
+                "2010",
+                "20081",
+                "19335",
+                "2047",
+                "9216",
+                "11011",
+                "1052050",
+                "12142",
+                "1123",
+                "4582"
+            ],
+            "url": "http://www.foodista.com/recipe/T6ZM4BQ6/asparagus-cake",
+            "image": "https://spoonacular.com/recipeImages/638819-312x231.jpg"
+        },
+        "Carrot and Banana Snacking Cake": {
+            "connectedTo": [
+                "11124",
+                "9040",
+                "11124",
+                "9040",
+                "1116",
+                "1123",
+                "4582",
+                "18372",
+                "2010",
+                "9299",
+                "4679"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20081": {
+            "connectedTo": [
+                "Chocolate Asparagus Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2047": {
+            "connectedTo": [
+                "Chocolate Asparagus Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1001": {
+            "connectedTo": [
+                "Glazed Banana Bread Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1053": {
+            "connectedTo": [
+                "Mangolicious Upside Down Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19335": {
+            "connectedTo": [
+                "Chocolate Asparagus Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1123": {
+            "connectedTo": [
+                "Carrot and Banana Snacking Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9216": {
+            "connectedTo": [
+                "Chocolate Asparagus Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1230": {
+            "connectedTo": [
+                "Pear-ginger upside-down cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1052050": {
+            "connectedTo": [
+                "Chocolate Asparagus Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "0": {
+            "connectedTo": [
+                "Glazed Banana Bread Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9200": {
+            "connectedTo": [
+                "Upside Down Orange Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1019016": {
+            "connectedTo": [
+                "Glazed Lemon Blueberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9150": {
+            "connectedTo": [
+                "Glazed Banana Bread Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "18369": {
+            "connectedTo": [
+                "Lemon & Sour Cream Pound Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93740": {
+            "connectedTo": [
+                "German Rhubarb Cake with Meringue"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "4584": {
+            "connectedTo": [
+                "Cake with lemon, rosewater and pistachios"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9156": {
+            "connectedTo": [
+                "Glazed Banana Bread Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1116": {
+            "connectedTo": [
+                "Carrot and Banana Snacking Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19296": {
+            "connectedTo": [
+                "Pear-ginger upside-down cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12151": {
+            "connectedTo": [
+                "Easter Nest Sweet Cake With Sour Cream-Royal Icing and Pistachios"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "14412": {
+            "connectedTo": [
+                "Rosemary & Lemon Infused Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9152": {
+            "connectedTo": [
+                "Fresh Strawberry Yogurt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10411111": {
+            "connectedTo": [
+                "Cake with lemon, rosewater and pistachios"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12135": {
+            "connectedTo": [
+                "Pear and Walnut Coffee Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1056": {
+            "connectedTo": [
+                "Lemon & Sour Cream Pound Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9279": {
+            "connectedTo": [
+                "Blue Sugar Plum Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12155": {
+            "connectedTo": [
+                "Kitchen Cabinet Coffee Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9003": {
+            "connectedTo": [
+                "Juicy pear and apple cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "4582": {
+            "connectedTo": [
+                "Carrot and Banana Snacking Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "18372": {
+            "connectedTo": [
+                "Carrot and Banana Snacking Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2010": {
+            "connectedTo": [
+                "Carrot and Banana Snacking Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1124": {
+            "connectedTo": [
+                "Gluten-Free Tres Leches Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20027": {
+            "connectedTo": [
+                "Cyndee's Neiman Marcus Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10014534": {
+            "connectedTo": [
+                "White cake with marzipan and almonds"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93704": {
+            "connectedTo": [
+                "Traditional Battenberg Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "18079": {
+            "connectedTo": [
+                "White cake with marzipan and almonds"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10112061": {
+            "connectedTo": [
+                "Toasted Snowberry Nut Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "4053": {
+            "connectedTo": [
+                "Mediterranean semolina cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2025": {
+            "connectedTo": [
+                "Scrumptious Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12023": {
+            "connectedTo": [
+                "Mini Tofu Chiffon Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12061": {
+            "connectedTo": [
+                "Mediterranean semolina cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12104": {
+            "connectedTo": [
+                "Grandma B's Rhubarb Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9040": {
+            "connectedTo": [
+                "Carrot and Banana Snacking Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10019230": {
+            "connectedTo": [
+                "Fall Classic: Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19334": {
+            "connectedTo": [
+                "Mangolicious Upside Down Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2050": {
+            "connectedTo": [
+                "Gluten-Free Tres Leches Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "4047": {
+            "connectedTo": [
+                "Brownie Cake gluten free, dairy free"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19165": {
+            "connectedTo": [
+                "Chocolate Asparagus Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10014214": {
+            "connectedTo": [
+                "THE Chocolate Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "4073": {
+            "connectedTo": [
+                "Brownie Cake gluten free, dairy free"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20080": {
+            "connectedTo": [
+                "Wholemeal Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12120": {
+            "connectedTo": [
+                "Wholemeal Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9079": {
+            "connectedTo": [
+                "Mini Mixed Fruit Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9032": {
+            "connectedTo": [
+                "Wholemeal Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1077": {
+            "connectedTo": [
+                "Glazed Banana Bread Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9206": {
+            "connectedTo": [
+                "Mediterranean semolina cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19336": {
+            "connectedTo": [
+                "Rosemary & Lemon Infused Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19081": {
+            "connectedTo": [
+                "Chocolate Nutella Walnut Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93813": {
+            "connectedTo": [
+                "Chocolate Cake with Coffee Marscarpone Icing"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10242040": {
+            "connectedTo": [
+                "Chocolate Cake with Coffee Marscarpone Icing"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "14209": {
+            "connectedTo": [
+                "Cinnamon Eggless Coffee Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9070": {
+            "connectedTo": [
+                "Cherry Upside-Down Cake (Extremely Easy to Make!)"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1002035": {
+            "connectedTo": [
+                "Autumn Pumpkin Chiffon Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9191": {
+            "connectedTo": [
+                "Fresh Plum Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9021": {
+            "connectedTo": [
+                "Raw Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9236": {
+            "connectedTo": [
+                "Fresh Plum Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9433": {
+            "connectedTo": [
+                "Clementine Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9431": {
+            "connectedTo": [
+                "Warm Mixed Berry Crumb Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "11124": {
+            "connectedTo": [
+                "Carrot and Banana Snacking Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9299": {
+            "connectedTo": [
+                "Carrot and Banana Snacking Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2035": {
+            "connectedTo": [
+                "Pear and Walnut Coffee Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9426": {
+            "connectedTo": [
+                "Raw Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12108": {
+            "connectedTo": [
+                "Raw Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10093740": {
+            "connectedTo": [
+                "Chocolate Apple Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1054": {
+            "connectedTo": [
+                "Mango-Refrigerator Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19904": {
+            "connectedTo": [
+                "BEST Banana Cake EVER"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "4679": {
+            "connectedTo": [
+                "Carrot and Banana Snacking Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9019": {
+            "connectedTo": [
+                "Glazed Banana Bread Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9266": {
+            "connectedTo": [
+                "Hummingbird Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1017": {
+            "connectedTo": [
+                "Easy Cream Cheese Pound Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19230": {
+            "connectedTo": [
+                "Orange Chocolate Stout Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1001053": {
+            "connectedTo": [
+                "Gluten-Free Tres Leches Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1125": {
+            "connectedTo": [
+                "Gluten-Free Tres Leches Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "18373": {
+            "connectedTo": [
+                "Gluten-Free Tres Leches Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1001077": {
+            "connectedTo": [
+                "Banana Walnut Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2053": {
+            "connectedTo": [
+                "Cinnamon Eggless Coffee Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "4669": {
+            "connectedTo": [
+                "Bing's Banana Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10112155": {
+            "connectedTo": [
+                "Bing's Banana Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1002011": {
+            "connectedTo": [
+                "Scrumptious Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "11216": {
+            "connectedTo": [
+                "Pear-ginger upside-down cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10014037": {
+            "connectedTo": [
+                "Grownup carrot cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "11422": {
+            "connectedTo": [
+                "Autumn Pumpkin Chiffon Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "11424": {
+            "connectedTo": [
+                "Autumn Pumpkin Chiffon Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12142": {
+            "connectedTo": [
+                "Chocolate Asparagus Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10018364": {
+            "connectedTo": [
+                "Traditional Battenberg Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "12118": {
+            "connectedTo": [
+                "Chocolate Blackberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10020129": {
+            "connectedTo": [
+                "Pandan Chiffon Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "42289": {
+            "connectedTo": [
+                "Pandan Chiffon Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "11507": {
+            "connectedTo": [
+                "Autumn Harvest Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9252": {
+            "connectedTo": [
+                "Pear-ginger upside-down cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19228": {
+            "connectedTo": [
+                "Hummingbird Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1002050": {
+            "connectedTo": [
+                "Almond Ricotta Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1036": {
+            "connectedTo": [
+                "Almond Ricotta Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "11114037": {
+            "connectedTo": [
+                "Caramel Peanut Fudge Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19719": {
+            "connectedTo": [
+                "Traditional Battenberg Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19297": {
+            "connectedTo": [
+                "Traditional Battenberg Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1069003": {
+            "connectedTo": [
+                "Apple Cinnamon Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9307": {
+            "connectedTo": [
+                "German Rhubarb Cake with Meringue"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93622": {
+            "connectedTo": [
+                "Chocolate Apple Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93818": {
+            "connectedTo": [
+                "Chocolate Apple Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9050": {
+            "connectedTo": [
+                "Glazed Lemon Blueberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "18133": {
+            "connectedTo": [
+                "Blueberry Pound Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "14214": {
+            "connectedTo": [
+                "Chocolate Spelt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9085": {
+            "connectedTo": [
+                "Chocolate Spelt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20140": {
+            "connectedTo": [
+                "Chocolate Spelt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10719335": {
+            "connectedTo": [
+                "Autumn Pumpkin Chiffon Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1022035": {
+            "connectedTo": [
+                "Christmas Fruit Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1009094": {
+            "connectedTo": [
+                "Mini Mixed Fruit Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9291": {
+            "connectedTo": [
+                "Christmas Fruit Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10319335": {
+            "connectedTo": [
+                "Juicy pear and apple cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20066": {
+            "connectedTo": [
+                "Orange Semolina Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93833": {
+            "connectedTo": [
+                "Tropical Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19908": {
+            "connectedTo": [
+                "Blue Sugar Plum Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2033": {
+            "connectedTo": [
+                "Poppy Seed Crazy Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93829": {
+            "connectedTo": [
+                "Poppy Seed Crazy Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9316": {
+            "connectedTo": [
+                "Fresh Strawberry Yogurt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "98887": {
+            "connectedTo": [
+                "Chocolate Blackberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93747": {
+            "connectedTo": [
+                "Chocolate Blackberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1041009": {
+            "connectedTo": [
+                "Japanese Chiffon Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1001116": {
+            "connectedTo": [
+                "Mini Mixed Fruit Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20129": {
+            "connectedTo": [
+                "Mini Mixed Fruit Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "18139": {
+            "connectedTo": [
+                "Scrumptious Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10711111": {
+            "connectedTo": [
+                "Traditional Battenberg Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19074": {
+            "connectedTo": [
+                "Caramel Peanut Fudge Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "11583": {
+            "connectedTo": [
+                "Hummingbird Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2006": {
+            "connectedTo": [
+                "Scrumptious Carrot Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9176": {
+            "connectedTo": [
+                "Mangolicious Upside Down Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "18617": {
+            "connectedTo": [
+                "Mango-Refrigerator Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "18621": {
+            "connectedTo": [
+                "Mango-Refrigerator Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93628": {
+            "connectedTo": [
+                "Mango-Refrigerator Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10012142": {
+            "connectedTo": [
+                "Vegan Pumpkin Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "16223": {
+            "connectedTo": [
+                "Vegan Pumpkin Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9087": {
+            "connectedTo": [
+                "Vegan Pumpkin Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19364": {
+            "connectedTo": [
+                "Caramel Peanut Fudge Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "16091": {
+            "connectedTo": [
+                "Caramel Peanut Fudge Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10019908": {
+            "connectedTo": [
+                "Juicy pear and apple cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9042": {
+            "connectedTo": [
+                "Chocolate Blackberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20077": {
+            "connectedTo": [
+                "Toasted Snowberry Nut Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1009079": {
+            "connectedTo": [
+                "Toasted Snowberry Nut Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20078": {
+            "connectedTo": [
+                "Glazed Banana Bread Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "11119297": {
+            "connectedTo": [
+                "Kitchen Cabinet Coffee Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "14003": {
+            "connectedTo": [
+                "Orange Chocolate Stout Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9078": {
+            "connectedTo": [
+                "Mediterranean semolina cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1009054": {
+            "connectedTo": [
+                "Glazed Lemon Blueberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19095": {
+            "connectedTo": [
+                "Warm Mixed Berry Crumb Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9057": {
+            "connectedTo": [
+                "Glazed Lemon Blueberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "35043": {
+            "connectedTo": [
+                "Glazed Lemon Blueberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "9302": {
+            "connectedTo": [
+                "Glazed Lemon Blueberry Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1012010": {
+            "connectedTo": [
+                "Cinnamon Eggless Coffee Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1012050": {
+            "connectedTo": [
+                "Cinnamon Eggless Coffee Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "14355": {
+            "connectedTo": [
+                "Cinnamon Eggless Coffee Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20648": {
+            "connectedTo": [
+                "Gluten-Free Tres Leches Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "20317": {
+            "connectedTo": [
+                "Gluten-Free Tres Leches Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "93626": {
+            "connectedTo": [
+                "Gluten-Free Tres Leches Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2064": {
+            "connectedTo": [
+                "Gluten-Free Tres Leches Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19911": {
+            "connectedTo": [
+                "Pear-ginger upside-down cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "2036": {
+            "connectedTo": [
+                "Rosemary & Lemon Infused Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "90480": {
+            "connectedTo": [
+                "Rosemary & Lemon Infused Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "10011416": {
+            "connectedTo": [
+                "Rosemary & Lemon Infused Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "19125": {
+            "connectedTo": [
+                "Chocolate Nutella Walnut Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "1009176": {
+            "connectedTo": [
+                "Mangolicious Upside Down Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        },
+        "11011": {
+            "connectedTo": [
+                "Chocolate Asparagus Bundt Cake"
+            ],
+            "url": "https://www.foodista.com/recipe/CYMDPV8C/carrot-and-banana-snacking-cake",
+            "image": "https://spoonacular.com/recipeImages/637161-312x231.jpg"
+        }
+    }
+}

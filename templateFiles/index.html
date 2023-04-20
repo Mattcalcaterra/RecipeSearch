@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <link rel="stylesheet" href="staticFiles/pico.min.css">
+    <link rel="stylesheet" href="staticFiles/stylesheet.css">
+</head>
+<body>
+    <header class="container">
+        <form action="/results" method="POST">
+        <!-- Grid -->
+        <div class="grid-container">
+            <!-- User Query-->
+            <div class="grid-item">
+                <label for="query">What food do you want recipes for?
+                    <input name="query" type="search" id="query" placeholder="Enter Food Here..." required/>
+                </label>
+            </div>
+            <!-- Diet -->
+            <div class="grid-item">
+                <label for="diet">
+                    Diet
+                    <select name="diet" id="diet">
+                        <option value="" selected>Select a diet...</option>
+                        <option value="ketogenic">Ketogenic</Kption>
+                        <option value="vegetarian">Vegetarian</option>
+                        <option value="vegan">Vegan</option>
+                        <option value="pescatarian">Pescatarian</option>
+                        <option value="paleo">Paleo</option>
+                        <option value="whole30">Whole30</option>
+                    </select>
+                </label>
+            </div>
+            <!-- Condition -->
+            <div class="grid-item">
+                <label for="condition">
+                    Medical Condition
+                    <select name="condition" id="condition">
+                        <option value="" selected>Select a Medical Condition...</option>
+                        <option value="gerd">GERD</option>
+                        <option value="diabetes">Diabetes</option>
+                        <option value="heartdisease">Heart Disease</option>
+                    </select>
+                </label>
+            </div>
+            <!-- Button -->
+            <div class="grid-item">
+                <label>
+                    <p></p>
+                    <input type="submit", value="Search"/>
+                </label>
+            </div>
+        </div>
+        </form>
+        <p><small>Medical information sourced from mayoclinic.org and hopkinsmedicine.org. Recipes provided Spoonacular API. (Links may or may not work)</small></p>
+    </header>
+</body>
+</html>
