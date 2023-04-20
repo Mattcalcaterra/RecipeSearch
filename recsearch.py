@@ -109,18 +109,6 @@ def get_diabetes_data():
   return {'exclude': [], 'include': li}
 
 
-  # li = []
-  # tables = parent.find_all('table')
-  # for table in tables:
-  #   for l in table.find_all('li'):
-  #     ingredient = l.string.replace('such as', ',').replace(' and ', ',').replace('.','')
-  #     ingredient = re.sub("[\(\[].*?[\)\]]", "", ingredient)
-  #     ingredient = ingredient.split(',')
-  #     for i in range(len(ingredient)):
-  #       li.append(ingredient[i].strip().lower())
-  # return {'exclude': li[4:9] + li[19:33] + li[79:91], 'include': li[0:4] + li[9:19] + li[60:79]}
-
-
 def get_condition_data(condition):
   '''
   Gets ingredients to exclude/include from diet based on medical condition webscraping
@@ -164,15 +152,9 @@ def clean_recipe_data(recipe_data):
     except:
       ingredient = ['none']
     cleaned_data = {
-        # 'diets': recipe_data.get('diets'),
-        'dishTypes': recipe_data.get('dishTypes'),
-        # 'dairyFree': recipe_data.get('dairyFree'),
-        # 'glutenFree': recipe_data.get('glutenFree'),
         'image': recipe_data.get('image'),
         'sourceUrl': recipe_data.get('sourceUrl'),
         'title': recipe_data.get('title'),
-        # 'vegan': recipe_data.get('vegan'),
-        # 'vegetarian': recipe_data.get('vegetarian'),
         'ingredients': ingredients # [ingredient for step in recipe_data.get('analyzedInstructions')[0].get('steps') for ingredient in step.get('ingredients')]
    }
 
@@ -308,7 +290,7 @@ def build_network(cleaned_data):
   ingredients = []
 
   for recipe in cleaned_data:
-    recipes.append(Vertex(key=recipe['title'], image=recipe['image'], url=recipe['sourceUrl'], dishTypes=recipe['dishTypes']))
+    recipes.append(Vertex(key=recipe['title'], image=recipe['image'], url=recipe['sourceUrl']))
     for ingredient in recipe['ingredients']:
         ingredients.append(Vertex(key=str(ingredient['id'])))
         recipes[-1].addNeighbor(nbr=ingredients[-1], weight=1)
@@ -345,12 +327,8 @@ def prep_for_flask(user_query, ingredient_in=[], ingredient_ex=[], diet='', cond
   ingredient_in = [ingredient_to_id(ingredient, ingredient_ids=ingredient_ids) for ingredient in get_condition_data(condition=condition)['include']]
   ingredient_ex = [ingredient_to_id(ingredient, ingredient_ids=ingredient_ids) for ingredient in get_condition_data(condition=condition)['exclude']]
 
-
-  print(ingredient_in)
-  print(ingredient_ex)
   # get recipe data from apis
   recipe_data = get_recipe_data(query=user_query, diet=diet, includeIngredients=ingredient_in)
-  print(len(recipe_data))
 
   # cleans recipe data
   cleaned_recipe_data = [clean_recipe_data(recipe) for recipe in recipe_data]
