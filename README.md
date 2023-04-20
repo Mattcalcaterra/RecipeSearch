@@ -28,7 +28,7 @@ pip install bs4
 
 In order to use the application an API key for Spoonacular API must be provided. Save the key in the same directory as the program with the following code in a file called **spoonacular_key.py**.
 
-`python SPOON_KEY = {your spoonacular key}`
+```python SPOON_KEY = {your spoonacular key} ```
 
 ## Data Structure
 
