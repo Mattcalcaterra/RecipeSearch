@@ -18,15 +18,17 @@ This project was developed as a part of SI 507. RecSearch is a web-based applica
 - csv (standard library)
 
 To install the required packages, run the following code:
-`pip install flask`
-`pip install requests`
-`pip install bs4`
+```python
+pip install flask
+pip install requests
+pip install bs4
+```
 
 ### API Keys
 
 In order to use the application an API key for Spoonacular API must be provided. Save the key in the same directory as the program with the following code in a file called **spoonacular_key.py**.
 
-`SPOON_KEY = {your spoonacular key}`
+`python SPOON_KEY = {your spoonacular key}`
 
 ## Data Structure
 
