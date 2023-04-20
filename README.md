@@ -32,12 +32,13 @@ In order to use the application an API key for Spoonacular API must be provided.
 
 ## Data Structure
 
-### Data Sources
+### Sources
 - mayoclinic.org
 - hopkinsmedicine.org
 - Spoonacular API
 - top-1k-ingredients.csv (from spoonacular)
 
+### Structure
 The data structure used for this application is a graph. Each recipe and ingredient is stored as a vertex in the graph once called from the Spoonacular API. The graph can then be accessed by either an ingredient or recipe and the connections can be found using `Vertex.getConnections()`. Each Vertex object contains the id of the recipe or ingredient, and if the vertex is a recipe, contains the url and image for that recipe. In the application the Vertexs are stored in two list `recipes` and `ingredients`. The graph is accessed via the `ingredients` list and all connections of the desired ingredients (determined from the condition data) are accessed. If the neighbors of the desired ingredients does not neighbor and excluded ingredient (determined from the condition data) that recipe is returned to the user (along with its image and url) in the web interface.
 
 `top-1k-ingredients.csv` is loaded to convert ingredients sourced from webscraping to id numbers compatiable with the Spoonacular API
