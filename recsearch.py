@@ -2,7 +2,6 @@ from flask import Flask, render_template, request
 import requests
 import json
 from spoonacular_key import SPOON_KEY
-import pprint as pp
 from bs4 import BeautifulSoup
 import csv
 import time
